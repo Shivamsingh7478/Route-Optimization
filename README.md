@@ -35,7 +35,7 @@ CityName2 latitude2 longitude2
 
 Example of cities.txt:
 
-plaintext
+```plaintext
 
 CityA 12.9715987 77.594566
 CityB 13.0826802 80.2707184
