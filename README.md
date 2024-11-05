@@ -32,6 +32,7 @@ The input for this project is a set of cities with their geographical coordinate
 CityName1 latitude1 longitude1
 CityName2 latitude2 longitude2
 ...
+
 Example of cities.txt:
 
 plaintext
