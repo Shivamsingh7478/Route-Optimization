@@ -28,14 +28,11 @@ This phase iterates several times to improve the initial GA-optimized route. Fin
 
 The input for this project is a set of cities with their geographical coordinates (latitude and longitude). The cities are read from a text file (`cities.txt`) in the following format:
 
-```plaintext
 CityName1 latitude1 longitude1
 CityName2 latitude2 longitude2
 ...
 
 Example of cities.txt:
-
-```plaintext
 
 CityA 12.9715987 77.594566
 CityB 13.0826802 80.2707184
@@ -50,8 +47,6 @@ Upon running the program, the user is prompted to:
     Provide the names of the cities they wish to include.
 
 Example Console Input:
-
-plaintext
 
 Enter the number of cities you want to include in the route (max 4): 3
 Available cities:
@@ -74,8 +69,6 @@ The output consists of:
 Example Output:
 
 After running the code, the output might look like:
-
-plaintext
 
 Optimized Route Distance: 210.45 km
 Optimized Route: CityA CityB CityC
